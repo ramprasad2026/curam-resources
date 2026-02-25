@@ -1,0 +1,2 @@
+# curam-resources
+curam resources
